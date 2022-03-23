@@ -34,7 +34,7 @@ class MemberSeeder extends Seeder
                 'src' => 'jean.jpg',
                 'name' => 'Jean',
                 'age' => '50',
-                'genre' => 'Homme'
+                'genre' => 'Non binaire'
             
             ],
             [

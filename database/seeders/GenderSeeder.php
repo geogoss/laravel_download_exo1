@@ -18,7 +18,8 @@ class GenderSeeder extends Seeder
         DB::table('genders')->insert([
 
             ['genre' => 'Homme'],
-            ['genre' => 'Femme']
+            ['genre' => 'Femme'],
+            ['genre' => 'Non binaire']
 
         ]);
     }
